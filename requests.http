@@ -1,0 +1,7 @@
+GET http://localhost:4004/odata/v4/catalog/Orders
+Content-Type: application/json;IEEE754Compatible=true
+
+###
+
+GET http://localhost:4004/odata/v4/catalog/Orders
+Content-Type: application/json;IEEE754Compatible=false
